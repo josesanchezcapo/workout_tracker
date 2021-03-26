@@ -1,0 +1,31 @@
+{
+  "name": "workout_tracker",
+  "version": "1.0.0",
+  "description": "For this assignment, you'll create a workout tracker. You have already been provided with the front end code in the `Develop` folder. This assignment will require you to create Mongo database with a Mongoose schema and handle routes with Express.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "seed": "node seeders/seed.js"
+  },
+  "author": "Jose Sanchez-Capo",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.3.16",
+    "morgan": "^1.9.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josesanchezcapo/workout_tracker.git"
+  },
+  "keywords": [
+    "workout",
+    "tracker"
+  ],
+  "bugs": {
+    "url": "https://github.com/josesanchezcapo/workout_tracker/issues"
+  },
+  "homepage": "https://github.com/josesanchezcapo/workout_tracker#readme"
+}
