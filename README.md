@@ -19,5 +19,5 @@ To run this application you will need to install the fallowing:
 
 # Heruko Link
 
-* Links:  
+* Links: https://jscworkout-tracker.herokuapp.com 
 
